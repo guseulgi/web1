@@ -1,0 +1,21 @@
+
+.color-primary{
+    color:red;
+}
+.font-50{
+    font-size: 50px;
+}
+
+.table-head > tr> td{
+    border: 2px solid #000;
+    font-size: 20px;
+} 
+
+.table-body > tr>td{
+    border: 1px solid #343434;
+}
+
+p{
+    color:red;
+    font-size: 100px;
+}
